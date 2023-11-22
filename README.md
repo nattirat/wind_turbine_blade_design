@@ -34,9 +34,18 @@ Phase 3: Turbine Blade Simulation with SolidWorks
 After obtaining the calculations from MATLAB. The blade prototype is simulated using SolidWorks as shown below: 
 
 ![BladeTopView](https://github.com/nattirat/wind_turbine_blade_design/assets/144031651/ca9637d1-87b9-4199-9d44-a316030bd543)
+
 ![BladeLeftView](https://github.com/nattirat/wind_turbine_blade_design/assets/144031651/86e89a87-e36c-4d1e-8ccd-0737d3208ecc)
+
 ![BladeIsometricView](https://github.com/nattirat/wind_turbine_blade_design/assets/144031651/13bda051-0a60-4479-8207-abc173c9ccd8)
+
 ![BladeFrontView](https://github.com/nattirat/wind_turbine_blade_design/assets/144031651/07783d43-dbe0-442a-b0dc-5f879e48e2c7)
 
+# Recommendations
+In the process of designing the blade, the optimization for blade parameters should be involved in the design in order to get a best character of blade. The blade designed from this MATLAB code has high different chord length and twist angle between 1st and 2nd blade section; therefore, this should be optimized for more logical value in the real application. 
+Moreover, the airfoil used in this wind turbine blade is uniform along the element. In fact, each blade element consists of different chord length; as a consequence, there are different values of Reynolds numbers. Each airfoil can operate at its optimum performance in different range of Reynolds number; therefore, the use of different airfoil sections can generate different value of lift to drag ratio and this can increase the value of power coefficient for the whole blade. 
+
+# Conclusion
+The code from MATLAB in this project can be use solely for simplest optimal design because, in practical, there are some factors that are needed to concern such as different flow regime over the blade. Furthermore, for an optimal design blade, the wind tunnel test needs to be involved.    
 
 
