@@ -33,6 +33,7 @@ BEM is translated to MATLAB code which is written with the following constraints
 - Wind speed from 3 to 12 m/s
 
 Phase 3: Turbine Blade Simulation with SolidWorks 
+
 After obtaining the calculations from MATLAB. The blade prototype is simulated using SolidWorks as shown below: 
 
 ![BladeTopView](https://github.com/nattirat/wind_turbine_blade_design/assets/144031651/ca9637d1-87b9-4199-9d44-a316030bd543)
