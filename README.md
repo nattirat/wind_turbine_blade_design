@@ -14,7 +14,7 @@ Phase 1: Preliminarily Research
 Constructing the understanding of wind turbine components, design principles, blade element theory, momentum theory, as well as aerodynamics are essential to this project. The textbooks Wind Energy Explained by J.F. Manwell, J.G. McGowan, and A.L. Rogers, and Wind Energy Handbook by Tony Burton, David Sharpe, Nick Jenkins, and Ervin Bossanyi are the main references to this research project. Moreover, several research papers are studied for this research.
 
 
-Phase 2: Blade Element Momentum (BEM) Theory with MATLAB
+Phase 2: Blade Element Momentum (BEM) Theory with MATLAB (please refer to **matlab_calculations.m**)
 
 BEM refers to the theory which relates the blade shape to the ability of the rotor to generate the power from the wind (wind turbine performance). In shorter terms, it combines the momentum and blade element theory equation together.
 
@@ -32,7 +32,7 @@ BEM is translated to MATLAB code which is written with the following constraints
 - RPM from 0 to 900
 - Wind speed from 3 to 12 m/s
 
-Phase 3: Turbine Blade Simulation with SolidWorks 
+Phase 3: Turbine Blade Simulation with SolidWorks (please refer to **blade_simulation.SLDPRT**)
 
 After obtaining the calculations from MATLAB. The blade prototype is simulated using SolidWorks as shown below: 
 
