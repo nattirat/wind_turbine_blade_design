@@ -8,13 +8,15 @@ Environment concerns have driven us to promote and encourage the use of renewabl
 
 To maximize the optimum efficiency, wind energy researchers around the globe work with great efforts to optimize the design of the wind turbine blades that generate maximum energy output. 
 
-The aim of this project is to design and optimize a 1-meter in length of the wind turbine blade using Matlab (for mathematical calculations) and SolidWorks (for blade simulation). Blade Element Momentum (BEM) Theory is applied throughout this project. 
+The aim of this project is to design and optimize a 1-meter in length of the wind turbine blade using MATLAB (for mathematical calculations) and SolidWorks (for blade simulation). Blade Element Momentum (BEM) Theory is applied throughout this project. 
 
 # Methodology
 Phase 1: Preliminarily Research 
+
 Constructing the understanding of wind turbine components, design principles, as well as aerodynamics are essential to perform this project. The textbooks Wind Energy Explained by J.F. Manwell, J.G. McGowan, and A.L. Rogers, and Wind Energy Handbook by Tony Burton, David Sharpe, Nick Jenkins, and Ervin Bossanyi are the main references to this research project. 
 
 Phase 2: Blade Element Momentum (BEM) Theory with MATLAB
+
 BEM refers to the theory which relates the blade shape to the ability of the rotor to generate the power from the wind (wind turbine performance). This theory combines the momentum and blade element theory equation together.
 
 Assumptions
